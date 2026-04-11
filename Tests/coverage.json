@@ -1,0 +1,158 @@
+{
+  "Domain.dll": {
+    "C:\\Users\\Lucas\\Documents\\PosInfnet\\DevOpsProj\\Domain\\Services\\BarcodeService.cs": {
+      "Domain.Services.BarcodeService": {
+        "System.String Domain.Services.BarcodeService::Generate(Domain.Models.BarcodeInput)": {
+          "Lines": {
+            "14": 7,
+            "15": 7,
+            "17": 7,
+            "18": 7,
+            "19": 7,
+            "20": 7,
+            "21": 0,
+            "22": 0,
+            "24": 7,
+            "25": 7,
+            "26": 0,
+            "27": 0,
+            "30": 7,
+            "31": 7,
+            "32": 7,
+            "33": 7,
+            "34": 7,
+            "36": 7,
+            "38": 7,
+            "39": 7
+          },
+          "Branches": [
+            {
+              "Line": 17,
+              "Offset": 18,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 7
+            },
+            {
+              "Line": 17,
+              "Offset": 31,
+              "EndOffset": 33,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 7
+            },
+            {
+              "Line": 17,
+              "Offset": 44,
+              "EndOffset": 46,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 7
+            },
+            {
+              "Line": 17,
+              "Offset": 18,
+              "EndOffset": 59,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 17,
+              "Offset": 31,
+              "EndOffset": 59,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 17,
+              "Offset": 44,
+              "EndOffset": 59,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 17,
+              "Offset": 62,
+              "EndOffset": 64,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 17,
+              "Offset": 62,
+              "EndOffset": 76,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 7
+            },
+            {
+              "Line": 24,
+              "Offset": 89,
+              "EndOffset": 91,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 7
+            },
+            {
+              "Line": 24,
+              "Offset": 89,
+              "EndOffset": 106,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 109,
+              "EndOffset": 111,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 109,
+              "EndOffset": 123,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 7
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Lucas\\Documents\\PosInfnet\\DevOpsProj\\Domain\\Models\\BarcodeInput.cs": {
+      "Domain.Models.BarcodeInput": {
+        "System.String Domain.Models.BarcodeInput::get_SupplierCode()": {
+          "Lines": {
+            "9": 28
+          },
+          "Branches": []
+        },
+        "System.String Domain.Models.BarcodeInput::get_PartNumber()": {
+          "Lines": {
+            "12": 21
+          },
+          "Branches": []
+        },
+        "System.String Domain.Models.BarcodeInput::get_SequenceCode()": {
+          "Lines": {
+            "15": 28
+          },
+          "Branches": []
+        },
+        "System.String Domain.Models.BarcodeInput::get_TraceabilityCode()": {
+          "Lines": {
+            "18": 21
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+![CI/CD Pipeline](https://github.com/lucasfmessias/barcode-api/actions/workflows/ci-cd.yml/badge.svg)

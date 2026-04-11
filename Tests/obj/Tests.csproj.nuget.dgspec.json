@@ -400,6 +400,12 @@
             "coverlet.collector": {
               "target": "Package",
               "version": "[6.0.4, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
             }
           },
           "imports": [
