@@ -114,6 +114,23 @@ public class BarcodeServiceTests
     }
 
     [Test]
+    public void Generate_ShouldThrowException_WhenSupplierCodeOrSequenceCodeContainsSpaces()
+    {
+        var service = new BarcodeService();
+
+        var input = new BarcodeInput
+        {
+            SupplierCode = "AN FU",
+            PartNumber = "96510BP100",
+            SequenceCode = "DCU ",
+            TraceabilityCode = "260128AD11ABRL35883037602096000021"
+        };
+
+        var ex = Assert.Throws<ArgumentException>(() => service.Generate(input));
+        Assert.That(ex.Message, Is.EqualTo("Supplier code and sequence code cannot contain spaces."));
+    }
+
+    [Test]
     public void Should_Generate_Complete_Code()
     {
         var service = new BarcodeService();

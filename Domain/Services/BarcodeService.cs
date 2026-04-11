@@ -15,7 +15,7 @@ public class BarcodeService
         var parts = new List<string>();
 
         if (string.IsNullOrWhiteSpace(input.SupplierCode) ||
-            string.IsNullOrWhiteSpace(input.PartNumber) ||
+            string.IsNullOrEmpty(input.PartNumber) ||
             string.IsNullOrWhiteSpace(input.SequenceCode) ||
             string.IsNullOrWhiteSpace(input.TraceabilityCode))
         {

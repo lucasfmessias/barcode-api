@@ -4,18 +4,18 @@
       "Domain.Services.BarcodeService": {
         "System.String Domain.Services.BarcodeService::Generate(Domain.Models.BarcodeInput)": {
           "Lines": {
-            "14": 7,
-            "15": 7,
-            "17": 7,
-            "18": 7,
-            "19": 7,
-            "20": 7,
+            "14": 8,
+            "15": 8,
+            "17": 8,
+            "18": 8,
+            "19": 8,
+            "20": 8,
             "21": 0,
             "22": 0,
-            "24": 7,
-            "25": 7,
-            "26": 0,
-            "27": 0,
+            "24": 8,
+            "25": 8,
+            "26": 1,
+            "27": 1,
             "30": 7,
             "31": 7,
             "32": 7,
@@ -32,7 +32,7 @@
               "EndOffset": 20,
               "Path": 0,
               "Ordinal": 0,
-              "Hits": 7
+              "Hits": 8
             },
             {
               "Line": 17,
@@ -40,7 +40,7 @@
               "EndOffset": 33,
               "Path": 0,
               "Ordinal": 2,
-              "Hits": 7
+              "Hits": 8
             },
             {
               "Line": 17,
@@ -48,7 +48,7 @@
               "EndOffset": 46,
               "Path": 0,
               "Ordinal": 4,
-              "Hits": 7
+              "Hits": 8
             },
             {
               "Line": 17,
@@ -88,7 +88,7 @@
               "EndOffset": 76,
               "Path": 1,
               "Ordinal": 7,
-              "Hits": 7
+              "Hits": 8
             },
             {
               "Line": 24,
@@ -104,7 +104,7 @@
               "EndOffset": 106,
               "Path": 1,
               "Ordinal": 9,
-              "Hits": 0
+              "Hits": 1
             },
             {
               "Line": 24,
@@ -112,7 +112,7 @@
               "EndOffset": 111,
               "Path": 0,
               "Ordinal": 10,
-              "Hits": 0
+              "Hits": 1
             },
             {
               "Line": 24,
@@ -130,25 +130,25 @@
       "Domain.Models.BarcodeInput": {
         "System.String Domain.Models.BarcodeInput::get_SupplierCode()": {
           "Lines": {
-            "9": 28
+            "9": 31
           },
           "Branches": []
         },
         "System.String Domain.Models.BarcodeInput::get_PartNumber()": {
           "Lines": {
-            "12": 21
+            "12": 23
           },
           "Branches": []
         },
         "System.String Domain.Models.BarcodeInput::get_SequenceCode()": {
           "Lines": {
-            "15": 28
+            "15": 30
           },
           "Branches": []
         },
         "System.String Domain.Models.BarcodeInput::get_TraceabilityCode()": {
           "Lines": {
-            "18": 21
+            "18": 23
           },
           "Branches": []
         }
