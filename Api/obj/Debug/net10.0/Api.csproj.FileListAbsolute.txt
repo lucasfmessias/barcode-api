@@ -21,6 +21,7 @@ C:\Users\Lucas\Documents\PosInfnet\DevOpsProj\Api\obj\Debug\net10.0\Api.Assembly
 C:\Users\Lucas\Documents\PosInfnet\DevOpsProj\Api\obj\Debug\net10.0\Api.csproj.CoreCompileInputs.cache
 C:\Users\Lucas\Documents\PosInfnet\DevOpsProj\Api\obj\Debug\net10.0\Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Lucas\Documents\PosInfnet\DevOpsProj\Api\obj\Debug\net10.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas\Documents\PosInfnet\DevOpsProj\Api\obj\Debug\net10.0\Api.sourcelink.json
 C:\Users\Lucas\Documents\PosInfnet\DevOpsProj\Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\Lucas\Documents\PosInfnet\DevOpsProj\Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\Lucas\Documents\PosInfnet\DevOpsProj\Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -36,4 +37,3 @@ C:\Users\Lucas\Documents\PosInfnet\DevOpsProj\Api\obj\Debug\net10.0\refint\Api.d
 C:\Users\Lucas\Documents\PosInfnet\DevOpsProj\Api\obj\Debug\net10.0\Api.pdb
 C:\Users\Lucas\Documents\PosInfnet\DevOpsProj\Api\obj\Debug\net10.0\Api.genruntimeconfig.cache
 C:\Users\Lucas\Documents\PosInfnet\DevOpsProj\Api\obj\Debug\net10.0\ref\Api.dll
-C:\Users\Lucas\Documents\PosInfnet\DevOpsProj\Api\obj\Debug\net10.0\Api.sourcelink.json
